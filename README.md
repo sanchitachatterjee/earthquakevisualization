@@ -1,4 +1,7 @@
 Earthquake Visualizer
+
+
+
 🔎 Overview
 
 Earthquake Visualizer is a React-based web application designed for Casey, a geography student who wants to explore and understand recent seismic activity around the world.
